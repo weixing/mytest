@@ -1,5 +1,2 @@
 <?php
-$mysql	=	mysql_connect('localhost','root','root');
-echo $mysql;
-
-//only test a change
+echo ip2long('192.168.0.200');
